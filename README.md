@@ -1,7 +1,6 @@
-# Flutter Elige tu propia aventura 
-Taller de Flutter Women Who Code 2022
+# Flutter Elige tu propia aventura Taller de Flutter Women Who Code 2022
 
-# FLUTTER
+
 
 Queremos que saques provecho del taller por ello te sugerimos tener preparado lo siguiente para poder sacarle el mayor provecho al taller.<br /> 
 
@@ -23,14 +22,14 @@ Recuerda que al instalarlo lo que haces es bajar un folder con todo el contenido
 ```bash
 which flutter
 ```
-<br /> 
-<br /> 
+
 Un comando que te será de mucha utilidad para revisar qué es lo que le falta a tu instalación y ver el estado de flutter es 
 <br /> 
+
 ```bash
 flutter doctor
 ```
-<br /> 
+
 
 ## Android Studio 
 Como segundo paso debemos Instalar Android Studio toma un poco de tiempo que se baje asi que ten un poco de paciencia <br /> 
@@ -39,6 +38,7 @@ https://developer.android.com/studio
 
 
 Antes de poder usar Flutter, debe aceptar las licencias del SDK de Android. Este paso debe realizarse después de haber instalado las herramientas enumeradas anteriormente.<br /> 
+
 ```bash
 flutter doctor --android-licenses
 ```
