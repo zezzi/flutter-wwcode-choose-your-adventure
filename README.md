@@ -20,7 +20,8 @@ Recuerda que al instalarlo lo que haces es bajar un folder con todo el contenido
 
 La variable de entorno que debes modificar es $PATH. 
 
-Este es un ejemplo del contendio que se baja de flutter y lo que hay que agregar a $PATH es el path completo hasta la carpeta bin 
+Este es un ejemplo del contendio que se baja de flutter y lo que hay que agregar a $PATH es el path completo hasta la carpeta bin <br/>
+
 <img width="621" alt="Screen Shot 2022-04-19 at 8 43 55 PM" src="https://user-images.githubusercontent.com/591679/164140820-1a996e62-9ee8-4e70-b4a0-15db79c793e6.png">
 
 <br /> 
