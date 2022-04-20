@@ -28,6 +28,13 @@ Este es un ejemplo del contendio que se baja de flutter y lo que hay que agregar
 which flutter
 ```
 
+En mi caso utilice atom
+<img width="325" alt="Screen Shot 2022-04-19 at 9 04 59 PM" src="https://user-images.githubusercontent.com/591679/164142649-6d824e65-e4d6-4dfb-a497-d2a11540987b.png">
+
+```bash
+export PATH="path_in_computer/flutter-tools/flutter/bin:$PATH"
+```
+
 Un comando que te será de mucha utilidad para revisar qué es lo que le falta a tu instalación y ver el estado de flutter es 
 <br /> 
 
@@ -35,11 +42,12 @@ Un comando que te será de mucha utilidad para revisar qué es lo que le falta a
 flutter doctor
 ```
 
+<img width="811" alt="Screen Shot 2022-04-19 at 9 23 15 PM" src="https://user-images.githubusercontent.com/591679/164144190-881d4c34-fde4-43d7-a566-4765c0abf71d.png">
+
 
 ## Android Studio 
 Como segundo paso debemos Instalar Android Studio toma un poco de tiempo que se baje asi que ten un poco de paciencia <br /> 
 https://developer.android.com/studio	
-
 
 
 Antes de poder usar Flutter, debe aceptar las licencias del SDK de Android. Este paso debe realizarse después de haber instalado las herramientas enumeradas anteriormente.<br /> 
@@ -47,3 +55,13 @@ Antes de poder usar Flutter, debe aceptar las licencias del SDK de Android. Este
 ```bash
 flutter doctor --android-licenses
 ```
+
+Una vez logras rsolver los problemas que te muestra flutter doctor te hace faltan dos pasos 
+
+Vamos a instalar el plugin de flutter en android Studio para ellos iremos a 
+```bash
+Plugins- > MarketPlace
+```
+Buscamos flutter y le damos install. Nos Preguntara si queremos instalar Dart tambien a lo que diras que si 
+
+<img width="792" alt="Screen Shot 2022-04-19 at 9 27 17 PM" src="https://user-images.githubusercontent.com/591679/164144631-b0a9816c-e4f9-4007-9577-f9032bc9d21f.png">
