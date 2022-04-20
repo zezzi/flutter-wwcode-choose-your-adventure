@@ -24,11 +24,17 @@ Este es un ejemplo del contendio que se baja de flutter y lo que hay que agregar
 <img width="621" alt="Screen Shot 2022-04-19 at 8 43 55 PM" src="https://user-images.githubusercontent.com/591679/164140820-1a996e62-9ee8-4e70-b4a0-15db79c793e6.png">
 
 <br /> 
+
 ```bash
 which flutter
 ```
 
-En mi caso utilice atom
+```bash
+which dart
+```
+
+<br /> 
+Para modificar el path En mi caso utilice atom
 <img width="325" alt="Screen Shot 2022-04-19 at 9 04 59 PM" src="https://user-images.githubusercontent.com/591679/164142649-6d824e65-e4d6-4dfb-a497-d2a11540987b.png">
 
 ```bash
@@ -44,11 +50,12 @@ flutter doctor
 
 <img width="811" alt="Screen Shot 2022-04-19 at 9 23 15 PM" src="https://user-images.githubusercontent.com/591679/164144190-881d4c34-fde4-43d7-a566-4765c0abf71d.png">
 
+En mi caso flutter doctor me notifica que debo aceptar las licencias de Android pero pondre ese paso un poquito mas adelante. 
 
 ## Android Studio 
 Como segundo paso debemos Instalar Android Studio toma un poco de tiempo que se baje asi que ten un poco de paciencia <br /> 
 https://developer.android.com/studio	
-
+Este ya viene con una version de Java 
 
 Antes de poder usar Flutter, debe aceptar las licencias del SDK de Android. Este paso debe realizarse después de haber instalado las herramientas enumeradas anteriormente.<br /> 
 
@@ -65,3 +72,9 @@ Plugins- > MarketPlace
 Buscamos flutter y le damos install. Nos Preguntara si queremos instalar Dart tambien a lo que diras que si 
 
 <img width="792" alt="Screen Shot 2022-04-19 at 9 27 17 PM" src="https://user-images.githubusercontent.com/591679/164144631-b0a9816c-e4f9-4007-9577-f9032bc9d21f.png">
+
+Al terminar te pedira que reinicies el IDE y asi ya podremos crear nuestro primer proyecto 
+
+<img width="795" alt="Screen Shot 2022-04-19 at 9 32 51 PM" src="https://user-images.githubusercontent.com/591679/164145213-b36aef94-2346-46f9-8fcf-f42c61c33c6b.png">
+
+
