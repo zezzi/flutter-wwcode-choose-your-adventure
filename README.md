@@ -78,4 +78,6 @@ Al terminar te pedira que reinicies el IDE y asi ya podremos crear nuestro prime
 
 <img width="795" alt="Screen Shot 2022-04-19 at 9 32 51 PM" src="https://user-images.githubusercontent.com/591679/164145213-b36aef94-2346-46f9-8fcf-f42c61c33c6b.png">
 
+## Android Virtual Device
 
+Por ultimo asegurate de crear al menos un dispositivo virtual en Android studio utilizando el AVD Manager 
