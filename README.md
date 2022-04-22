@@ -26,9 +26,12 @@ Este es un ejemplo del contendio que se baja de flutter y lo que hay que agregar
 
 <br /> 
 
+Dos commandos que te pueden ser de utilidad son para determinar cual es el path en donde flutter esta instalado es 
+
 ```bash
 which flutter
 ```
+y  Dart
 
 ```bash
 which dart
