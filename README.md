@@ -85,3 +85,18 @@ Al terminar te pedira que reinicies el IDE y asi ya podremos crear nuestro prime
 
 Por ultimo para poder correr el proyecto necesitamos crear  crear al menos un dispositivo virtual en Android studio utilizando el AVD Manager. Estas imagenes usualmente ocupan bastante espacio asi que ten cuidado que tantas bajas.   
 https://developer.android.com/studio/run/managing-avds
+
+en android studio has click en el icono que esta en la parte superior el segundo de derecha a izquierda
+
+<img width="462" alt="Screen Shot 2022-04-22 at 6 04 18 AM" src="https://user-images.githubusercontent.com/591679/164712229-7c1eb79a-5e56-47a5-8327-9666104ab4cb.png">
+
+
+
+<img width="906" alt="Screen Shot 2022-04-22 at 6 04 13 AM" src="https://user-images.githubusercontent.com/591679/164712121-24a30119-d67e-4f75-8b2b-960de0cc6808.png">
+
+<img width="990" alt="Screen Shot 2022-04-22 at 6 04 30 AM" src="https://user-images.githubusercontent.com/591679/164712263-c169fe5d-749a-468b-be1b-2d229a806b75.png">
+
+<img width="992" alt="Screen Shot 2022-04-22 at 6 04 39 AM" src="https://user-images.githubusercontent.com/591679/164712283-03dc9ba3-a9c1-4a70-a221-41545a840708.png">
+
+<img width="995" alt="Screen Shot 2022-04-22 at 6 04 49 AM" src="https://user-images.githubusercontent.com/591679/164712301-58c3e1e6-fdd3-4765-b337-3d2ecb7ab5d3.png">
+
