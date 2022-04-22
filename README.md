@@ -83,4 +83,4 @@ Al terminar te pedira que reinicies el IDE y asi ya podremos crear nuestro prime
 
 ## Android Virtual Device
 
-Por ultimo asegurate de crear al menos un dispositivo virtual en Android studio utilizando el AVD Manager 
+Por ultimo para poder correr el proyecto necesitamos crear  crear al menos un dispositivo virtual en Android studio utilizando el AVD Manager. Estas imagenes usualmente ocupan bastante espacio asi que ten cuidado que tantas bajas.   
